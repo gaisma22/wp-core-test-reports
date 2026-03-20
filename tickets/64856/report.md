@@ -26,7 +26,9 @@ Patch Tested: https://github.com/WordPress/wordpress-develop/pull/11282
 ✅ Patch is solving the problem
 
 === Expected result
-Secondary variation buttons and structure tags on the Permalinks page should have a pressed/active state that is easy to tell apart from the default state.
+Secondary variation buttons and structure tags on the Permalinks
+page should have a pressed/active state that is easy to tell
+apart from the default state.
 
 === Additional Notes
 - Tested with the Default (purple) admin color scheme from the
@@ -38,9 +40,13 @@ Secondary variation buttons and structure tags on the Permalinks page should hav
 - WP Button Variations Checker plugin used for testing: https://github.com/t-hamano/wp-button-variations-checker
 
 === Screenshots/Screencast with results
-Before patch:
 
+Before patch:
+- 01-before-button-variations.png
+- 02-before-permalinks.png
 
 After patch:
+- 01-after-button-variations.png
+- 02-after-permalinks.png
 
 ```
