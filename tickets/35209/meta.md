@@ -6,5 +6,4 @@
 - **Status at time of test:** `open`, `needs-testing`, `dev-feedback`
 - **Last activity:** 10 years ago
 - **Patch exists:** Yes
-- **Tested on:** 2026-03-08
 - **Result:** Could not reproduce
